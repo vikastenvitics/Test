@@ -1,0 +1,6 @@
+﻿{
+    
+    "connectionString": "mongodb://192.168.1.103:17037/PMS_DB",
+    "apiUrl": "http://localhost:3000/api",
+    "secret": "ItsSecretMan"
+}
